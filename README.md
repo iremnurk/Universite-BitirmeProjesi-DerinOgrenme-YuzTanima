@@ -1,1 +1,4 @@
-# -BitirmeProjesi-Derin-renme-Y-z-Tan-ma-Projesi-
+# -BitirmeProjesi-Derin Öğrenme ile Yüz Tanıma
+
+Bu çalışmada bir fotoğraf veri setinden Derin Öğrenme Algoritmaları kullanılarak; yüz tanıma işleminin gerçekleştirilmesi sağlanacaktır. Yapay Sinir Ağının mimarisinin oluşturulup, kullanılması, uçtan uca öğrenmenin sağlanması ve eğitim için büyük ölçekli veri setleri oluşturulması gerçekleştirilecektir.
+İlk olarak, bir yüz veri kümesi oluşturmak için web üzerinde mevcut bilgi kaynaklarını kullanarak yüz verilerinin toplanması yöntemi kullanılacaktır. Bunun nedeni ise web üzerinde yeterli sayıda farklı görüntünün bulunması ve ayrıca görüntülerinin indirilmesinde herhangi bir gizlilik sorunundan kaçınılmasıdır. Veri setinde her bir kimlik için birçok görüntü toplanacaktır. Filtreleme işlemleri yapılıp oluşturulan veri setlerinin tanımlanması ve doğrulaması için Yapay Sinir Ağı mimarisinin kullanılıp, yüz tanımanın sağlanması hedeflenmektedir
